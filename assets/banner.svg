@@ -1,0 +1,49 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GradusXaker profile banner</title>
+  <desc id="desc">Cyberpunk hacker themed banner with neon green glow, grid and code motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030712"/>
+      <stop offset="0.55" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#071A12"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="170" y1="50" x2="980" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#A3E635"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#163328" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="22" fill="url(#grid)" opacity="0.65"/>
+  <path d="M0 250C123 224 193 213 327 209C463 205 524 133 664 133C803 133 834 196 956 209C1078 221 1170 206 1280 170V320H0V250Z" fill="#06110D" opacity="0.95"/>
+  <g opacity="0.55">
+    <circle cx="1040" cy="90" r="68" stroke="#1F9D55" stroke-width="1.5"/>
+    <circle cx="1040" cy="90" r="92" stroke="#1F9D55" stroke-width="1"/>
+    <path d="M1040 0V180M950 90H1130" stroke="#1F9D55" stroke-width="1"/>
+  </g>
+  <g filter="url(#softGlow)">
+    <text x="86" y="122" fill="url(#glow)" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="54" font-weight="700">GradusXaker</text>
+    <text x="90" y="164" fill="#C7F9D4" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="19">&gt; build firmware  //  ship tools  //  break limits</text>
+  </g>
+  <text x="90" y="218" fill="#7DD3A7" font-family="'IBM Plex Sans', 'Segoe UI', sans-serif" font-size="18">Embedded • Python • Java • Kotlin • Linux • Reverse vibes</text>
+  <g opacity="0.9">
+    <rect x="86" y="238" width="440" height="28" rx="14" fill="#071A12" stroke="#1F9D55"/>
+    <circle cx="110" cy="252" r="5" fill="#22C55E"/>
+    <text x="126" y="257" fill="#D1FAE5" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="14">status: online // location: Novosibirsk // mode: cyber</text>
+  </g>
+  <g opacity="0.75">
+    <text x="930" y="228" fill="#22C55E" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="16">$ ssh gradus@github</text>
+    <text x="930" y="252" fill="#A7F3D0" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="16">Authentication succeeded.</text>
+    <text x="930" y="276" fill="#6EE7B7" font-family="'JetBrains Mono', 'Consolas', monospace" font-size="16">Launching public profile ...</text>
+  </g>
+</svg>
