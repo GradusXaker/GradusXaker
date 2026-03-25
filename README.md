@@ -2,17 +2,17 @@
   <img src="./assets/banner.svg" alt="GradusXaker cyber banner" width="100%" />
 
   <h1>GradusXaker</h1>
-  <p><strong>Embedded hacker mindset.</strong> Firmware, tools, automation and code that should not be boring.</p>
+  <p><strong>Инженерный хакерский вайб.</strong> Прошивки, утилиты, автоматизация и код, который не должен быть скучным.</p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Firmware+builder+for+ESP32+and+M5Stack;Python+tools+for+real-world+devices;Java+and+Kotlin+backend+side+quests;Linux+terminal+enjoyer+with+cyberpunk+taste" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Прошивки+для+ESP32+и+M5Stack;Python-утилиты+для+реальных+устройств;Java+и+Kotlin+как+рабочие+инструменты;Linux+терминал+и+киберпанк+по+умолчанию" alt="Typing animation" />
   </p>
 
   <p>
-    <a href="https://github.com/GradusXaker?tab=followers"><img src="https://img.shields.io/github/followers/GradusXaker?style=for-the-badge&logo=github&label=Followers&color=22C55E&labelColor=0B1220" alt="followers" /></a>
-    <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/VK-contact-0ea5e9?style=for-the-badge&logo=vk&logoColor=white&labelColor=0B1220" alt="VK" /></a>
-    <a href="mailto:gradus_xaker@mail.ru"><img src="https://img.shields.io/badge/Email-gradus_xaker%40mail.ru-22c55e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1220" alt="Email" /></a>
-    <img src="https://komarev.com/ghpvc/?username=GradusXaker&style=for-the-badge&color=22C55E&label=Profile+Views" alt="Profile views" />
+    <a href="https://github.com/GradusXaker?tab=followers"><img src="https://img.shields.io/github/followers/GradusXaker?style=for-the-badge&logo=github&label=Подписчики&color=22C55E&labelColor=0B1220" alt="followers" /></a>
+    <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/VK-контакт-0ea5e9?style=for-the-badge&logo=vk&logoColor=white&labelColor=0B1220" alt="VK" /></a>
+    <a href="mailto:gradus_xaker@mail.ru"><img src="https://img.shields.io/badge/Почта-gradus_xaker%40mail.ru-22c55e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1220" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=GradusXaker&style=for-the-badge&color=22C55E&label=Просмотры+профиля" alt="Profile views" />
   </p>
 </div>
 
@@ -31,12 +31,12 @@ Focus    : Embedded systems, firmware, utility apps, backend experiments
 Vibe     : cyber terminal, green glow, practical engineering
 ```
 
-## mission log
+## чем занимаюсь
 
-- Building firmware and embedded tooling around ESP32, M5Stack and device workflows.
-- Writing desktop and automation utilities in Python when hardware needs a clean operator interface.
-- Shipping side projects in Java, Kotlin, PHP and whatever stack gets the job done.
-- Keeping the terminal sharp, the tooling fast and the profile unapologetically cyber.
+- Делаю прошивки и embedded-инструменты вокруг `ESP32`, `M5Stack` и связанных устройств.
+- Пишу desktop и automation-утилиты на `Python`, когда железу нужен удобный интерфейс управления.
+- Использую `Java`, `Kotlin`, `PHP` и другие стеки там, где они реально полезны.
+- Люблю быстрые CLI-инструменты, терминал, автоматизацию и киберпанк-эстетику.
 
 ## tech arsenal
 
@@ -53,27 +53,27 @@ Vibe     : cyber terminal, green glow, practical engineering
   <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=22C55E" alt="Bash" />
 </p>
 
-## featured projects
+## избранные проекты
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>esp32-car-fuel-monitor</h3>
-      <p>ESP32 fuel monitoring with OLED and Android connectivity for real-time tracking.</p>
+      <p>ESP32-монитор топлива для автомобиля с OLED-дисплеем и Android-приложением.</p>
     </td>
     <td width="50%" valign="top">
       <h3>m5-flasher</h3>
-      <p>Desktop flasher utility for M5Stick and Gradus devices over serial.</p>
+      <p>Desktop-приложение для прошивки M5Stick и Gradus-устройств через serial-порт.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>gradus-firmware</h3>
-      <p>Firmware fork with build fixes and M5Stack-focused adaptation.</p>
+      <p>Форк прошивки Bruce/Gradus с фиксами сборки и адаптацией под M5Stack.</p>
     </td>
     <td width="50%" valign="top">
       <h3>site-optimizer-pro</h3>
-      <p>WordPress plugin for cleanup, image optimization and site health routines.</p>
+      <p>WordPress-плагин для оптимизации изображений, очистки базы данных и мониторинга сайта.</p>
     </td>
   </tr>
 </table>
@@ -99,17 +99,17 @@ Vibe     : cyber terminal, green glow, practical engineering
   <img src="https://raw.githubusercontent.com/GradusXaker/GradusXaker/output/snake-dark.svg" alt="Snake animation" />
 </div>
 
-## connect
+## контакты
 
 <p>
   <a href="https://github.com/GradusXaker"><img src="https://img.shields.io/badge/GitHub-GradusXaker-111827?style=flat-square&logo=github&logoColor=22C55E" alt="GitHub" /></a>
   <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/VK-gradus__xaker-111827?style=flat-square&logo=vk&logoColor=22C55E" alt="VK" /></a>
-  <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/Website-VK%20Profile-111827?style=flat-square&logo=googlechrome&logoColor=22C55E" alt="Website" /></a>
-  <a href="mailto:gradus_xaker@mail.ru"><img src="https://img.shields.io/badge/Email-Let's%20build-111827?style=flat-square&logo=gmail&logoColor=22C55E" alt="Email" /></a>
+  <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/Сайт-VK%20Profile-111827?style=flat-square&logo=googlechrome&logoColor=22C55E" alt="Website" /></a>
+  <a href="mailto:gradus_xaker@mail.ru"><img src="https://img.shields.io/badge/Почта-Написать-111827?style=flat-square&logo=gmail&logoColor=22C55E" alt="Email" /></a>
 </p>
 
 ```text
-> Access granted.
-> Rendering profile interface for public visitors...
-> Theme loaded: CYBER_TERMINAL_GREEN
+> Доступ разрешен.
+> Публичный профиль загружается...
+> Тема активна: CYBER_TERMINAL_GREEN
 ```
