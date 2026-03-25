@@ -5,14 +5,14 @@
   <p><strong>Инженерный хакерский вайб.</strong> Прошивки, утилиты, автоматизация и код, который не должен быть скучным.</p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=Прошивки+для+ESP32+и+M5Stack;Python-утилиты+для+реальных+устройств;Java+и+Kotlin+как+рабочие+инструменты;Linux+терминал+и+киберпанк+по+умолчанию" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=900&lines=%D0%9F%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20ESP32%20%D0%B8%20M5Stack;%20Python-%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2;%20Java%20%D0%B8%20Kotlin%20%D0%BA%D0%B0%D0%BA%20%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B;%20Linux%20%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20%D0%B8%20%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%BF%D0%B0%D0%BD%D0%BA%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E" alt="Typing animation" />
   </p>
 
   <p>
-    <a href="https://github.com/GradusXaker?tab=followers"><img src="https://img.shields.io/github/followers/GradusXaker?style=for-the-badge&logo=github&label=Подписчики&color=22C55E&labelColor=0B1220" alt="followers" /></a>
-    <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/VK-контакт-0ea5e9?style=for-the-badge&logo=vk&logoColor=white&labelColor=0B1220" alt="VK" /></a>
-    <a href="mailto:gradus_xaker@mail.ru"><img src="https://img.shields.io/badge/Почта-gradus_xaker%40mail.ru-22c55e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1220" alt="Email" /></a>
-    <img src="https://komarev.com/ghpvc/?username=GradusXaker&style=for-the-badge&color=22C55E&label=Просмотры+профиля" alt="Profile views" />
+    <a href="https://github.com/GradusXaker?tab=followers"><img src="https://img.shields.io/github/followers/GradusXaker?style=for-the-badge&logo=github&label=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8&color=22C55E&labelColor=0B1220" alt="followers" /></a>
+    <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/VK-%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82-0ea5e9?style=for-the-badge&logo=vk&logoColor=white&labelColor=0B1220" alt="VK" /></a>
+    <a href="mailto:gradus_xaker@mail.ru"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%87%D1%82%D0%B0-gradus_xaker%40mail.ru-22c55e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1220" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=GradusXaker&style=for-the-badge&color=22C55E&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F" alt="Profile views" />
   </p>
 </div>
 
@@ -104,8 +104,8 @@ Vibe     : cyber terminal, green glow, practical engineering
 <p>
   <a href="https://github.com/GradusXaker"><img src="https://img.shields.io/badge/GitHub-GradusXaker-111827?style=flat-square&logo=github&logoColor=22C55E" alt="GitHub" /></a>
   <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/VK-gradus__xaker-111827?style=flat-square&logo=vk&logoColor=22C55E" alt="VK" /></a>
-  <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/Сайт-VK%20Profile-111827?style=flat-square&logo=googlechrome&logoColor=22C55E" alt="Website" /></a>
-  <a href="mailto:gradus_xaker@mail.ru"><img src="https://img.shields.io/badge/Почта-Написать-111827?style=flat-square&logo=gmail&logoColor=22C55E" alt="Email" /></a>
+  <a href="https://vk.com/gradus_xaker"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-VK%20Profile-111827?style=flat-square&logo=googlechrome&logoColor=22C55E" alt="Website" /></a>
+  <a href="mailto:gradus_xaker@mail.ru"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%87%D1%82%D0%B0-%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-111827?style=flat-square&logo=gmail&logoColor=22C55E" alt="Email" /></a>
 </p>
 
 ```text
